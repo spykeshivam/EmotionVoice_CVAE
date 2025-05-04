@@ -1,0 +1,35 @@
+emotion,text_file,text_path,text_content,wav_file,wav_path,wav_exists,text_deleted,wav_deleted
+Angry,h14.txt,Text/Angry/h14.txt,"Yn amlwg, roedd y cwpan broedol yn cael llawer o adnoddau i wneud yn eu cyfnod newydd.",h14.wav,datasets/Angry/h14.wav,True,True,True
+Angry,sa09.txt,Text/Angry/sa09.txt,Mae'n amlwg o ddynion o'r cyngor.,sa09.wav,datasets/Angry/sa09.wav,True,True,True
+Angry,n30.txt,Text/Angry/n30.txt,Mae'r Cofn Cymru yn lle o gyfleoedd pwysau a chyffredin.,n30.wav,datasets/Angry/n30.wav,True,True,True
+Angry,a13.txt,Text/Angry/a13.txt,Mae llawer o bobl yn roi'r llyfr yn ystod ystod a'r masgau a'r cwpan o'r bot.,a13.wav,datasets/Angry/a13.wav,True,True,True
+Angry,su05.txt,Text/Angry/su05.txt,Roedd ei llwythoedd yn teimlo fel os oedd yn broken.,su05.wav,datasets/Angry/su05.wav,True,True,True
+Angry,a09.txt,Text/Angry/a09.txt,"Yn hytrach na, nid yw'r amser mwyaf i fynedau busnes.",a09.wav,datasets/Angry/a09.wav,True,True,True
+Angry,d09.txt,Text/Angry/d09.txt,Decembr a Dyniwyr yn fwy mlynedd i ddod i Miami.,d09.wav,datasets/Angry/d09.wav,True,True,True
+Angry,d04.txt,Text/Angry/d04.txt,Diolch am y clof ddiogel i'r lluniau i mi.,d04.wav,datasets/Angry/d04.wav,True,True,True
+Angry,a12.txt,Text/Angry/a12.txt,"Ond yn y unig rhan, roeddem yn ddiolch i'r cyfrifiadur.",a12.wav,datasets/Angry/a12.wav,True,True,True
+Angry,sa12.txt,Text/Angry/sa12.txt,Mae angen i'r amgueddfa am ddewis ymdrech yn dweud ei fod yn mael.,sa12.wav,datasets/Angry/sa12.wav,True,True,True
+Angry,d08.txt,Text/Angry/d08.txt,Barbarn papur a lewyd yn ffwrdd fwyaf.,d08.wav,datasets/Angry/d08.wav,True,True,True
+Angry,sa13.txt,Text/Angry/sa13.txt,Ond mae'r siopau yn aml iawn ac nid ydyn ni'n cael llawer o bobl arall.,sa13.wav,datasets/Angry/sa13.wav,True,True,True
+Angry,f11.txt,Text/Angry/f11.txt,"Roedd eu propion yn ddau laddwyr, sian, a fan pan.",f11.wav,datasets/Angry/f11.wav,True,True,True
+Angry,n21.txt,Text/Angry/n21.txt,Rhaid i mi ddod yn y cloth ddŵr i'r lluniau.,n21.wav,datasets/Angry/n21.wav,True,True,True
+Angry,f02.txt,Text/Angry/f02.txt,Dwi'n gofyn i mi gyrraedd o'r rhag o'r oedran fel hynny.,f02.wav,datasets/Angry/f02.wav,True,True,True
+Angry,a10.txt,Text/Angry/a10.txt,Mae plant a chyd yn adeiladu eu clasgwm ar gyfer bob hilydd.,a10.wav,datasets/Angry/a10.wav,True,True,True
+Angry,n17.txt,Text/Angry/n17.txt,Doe'n gofyn i mi ddod oed yn oed yn y rhaid fel hyn.,n17.wav,datasets/Angry/n17.wav,True,True,True
+Angry,n09.txt,Text/Angry/n09.txt,Mae gweithgareddau agorol yn ymdrinio'n ddiogel.,n09.wav,datasets/Angry/n09.wav,True,True,True
+Angry,f13.txt,Text/Angry/f13.txt,Gwylio'r cigaret,f13.wav,datasets/Angry/f13.wav,True,True,True
+Angry,f12.txt,Text/Angry/f12.txt,Mae'r problem hwn yn cael ei ddysgu yn ymwneud â chwestiynau o salwriaeth a tanewr.,f12.wav,datasets/Angry/f12.wav,True,True,True
+Angry,f15.txt,Text/Angry/f15.txt,Byddwn ni'n gallu cymryd ychydig o'r syniad fwyaf arbennig o'r hyn sydd â'r hyn nad yw.,f15.wav,datasets/Angry/f15.wav,True,True,True
+Angry,h10.txt,Text/Angry/h10.txt,Gweithio'r colchwl dyn i'w addio'r oel.,h10.wav,datasets/Angry/h10.wav,True,True,True
+Angry,d10.txt,Text/Angry/d10.txt,"Os oedd pobl yn fwy hynod o ddiddorol, nid oedd angen i ddau'r ddau.",d10.wav,datasets/Angry/d10.wav,True,True,True
+Angry,su02.txt,Text/Angry/su02.txt,Neid yw'r holl gadewch i mi gyrraedd o ran oedol fel hynny.,su02.wav,datasets/Angry/su02.wav,True,True,True
+Angry,n27.txt,Text/Angry/n27.txt,Mae'r cyflog o ddysgu'n llwyddo yn unigol iawn i unrhyw gofnod.,n27.wav,datasets/Angry/n27.wav,True,True,True
+Angry,a04.txt,Text/Angry/a04.txt,a phwy sy'n ei wneud yn y cyfrifiad?,a04.wav,datasets/Angry/a04.wav,True,True,True
+Angry,h06.txt,Text/Angry/h06.txt,Mae'r problem gwyllgor yn mynd yn fwy anodd unrhyw dydd.,h06.wav,datasets/Angry/h06.wav,True,True,True
+Angry,n26.txt,Text/Angry/n26.txt,Roedd ei siolderau yn teimlo fel os oedd yn broken.,n26.wav,datasets/Angry/n26.wav,True,True,True
+Angry,a14.txt,Text/Angry/a14.txt,"Yn llawer o'i poema, mae'r diem yn dod o'r traen, ymgyrch yn llawn eang o'r ffyrdd.",a14.wav,datasets/Angry/a14.wav,True,True,True
+Angry,a08.txt,Text/Angry/a08.txt,Ddewiswch y ffônio'r gweithredoedd ar unwaith.,a08.wav,datasets/Angry/a08.wav,True,True,True
+Angry,n04.txt,Text/Angry/n04.txt,Yr wych ffordd ddysgu yw i'w solu problemau arall.,n04.wav,datasets/Angry/n04.wav,True,True,True
+Angry,f09.txt,Text/Angry/f09.txt,Roedd y tuff ar gael pan roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd roedd ro'dddechro'ddro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro'dro,f09.wav,datasets/Angry/f09.wav,True,True,True
+Angry,f07.txt,Text/Angry/f07.txt,Mae'r diograff yn ddysgu ar ôl llawer o ddysgu.,f07.wav,datasets/Angry/f07.wav,True,True,True
+Angry,n06.txt,Text/Angry/n06.txt,"Cadeiryddol, cyfrifau cymdeithasol yn neglai'r pwy",n06.wav,datasets/Angry/n06.wav,True,True,True

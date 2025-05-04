@@ -1,0 +1,5 @@
+# Ignore the outputs/models folder
+outputs/models/
+Text_evaluation_tts/Angry
+Text_evaluation_tts/Happy
+/outputs/Shakespeare_gtts.mp3
